@@ -4,3 +4,8 @@
 
 # Module directory
 .terraform/
+
+# Idea directory
+.idea/
+
+*.zip
